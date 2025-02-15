@@ -1,0 +1,10 @@
+﻿brand_id,brand_name, price ,country,stock
+1,Electra,"  $2,500.00  ",USA,5
+2,Haro,"  $1,500.00  ",USA,3
+3,Heller,"  $1,000.00  ",Germany,2
+4,Pure Cycles,  $700.00  ,Germany,1
+5,Ritchey,  $899.00  ,Germany,5
+6,Strider,"  $1,299.00  ",USA,2
+7,Sun Bicycles,"  $1,399.00  ",USA,2
+8,Surly,"  $1,499.00  ",Canada,2
+9,Trek,"  $4,500.00  ",UK,1
