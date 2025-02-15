@@ -1,0 +1,13 @@
+﻿Sale_ID,Product_ID,Units_Sold,Sales_Region,Sale_Date
+1,101,1200,North America,15/01/24
+2,102,450,Europe,01/02/24
+3,103,850,,10/03/24
+4,104,550,North America,22/01/24
+5,105,1100,Europe,25/02/24
+6,106,,Asia,03/04/24
+7,107,,North America,10/05/24
+8,108,600,Europe,15/06/24
+9,109,450,Asia,01/07/24
+10,110,300,North America,20/07/24
+9,109,450,Asia,01/07/24
+10,110,300,North America,20/07/24
