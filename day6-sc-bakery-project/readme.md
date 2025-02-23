@@ -1,7 +1,7 @@
 # 🍞 Sweet Crust Bakery Project  
 
 <p align="center">
-  <img src="https://github.com/najirh/py_bootcampb1_db/blob/main/day6-sc-bakery-project/''.png" alt="Bakery Image">
+  <img src="https://github.com/najirh/py_bootcampb1_db/blob/main/day6-sc-bakery-project/sc_logo.png" alt="Bakery Image">
 </p>  
 
 ## 📌 Project Overview  
