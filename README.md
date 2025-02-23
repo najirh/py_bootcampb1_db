@@ -1,6 +1,6 @@
 # 🍞 Sweet Crust Bakery Project  
 
-![Bakery Image](https://source.unsplash.com/featured/?bakery)  
+![Bakery Image](https://github.com/najirh/py_bootcampb1_db/blob/main/day6-sc-bakery-project/''.png)  
 
 ## 📌 Project Overview  
 Sweet Crust Bakery is a **data-driven project** analyzing the **sales performance of a bakery business with 4 stores and 15 products across the USA**.  
