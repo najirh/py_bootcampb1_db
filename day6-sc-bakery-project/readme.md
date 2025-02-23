@@ -1,6 +1,8 @@
 # 🍞 Sweet Crust Bakery Project  
 
-![Bakery Image](https://source.unsplash.com/featured/?bakery)  
+<p align="center">
+  <img src="https://github.com/najirh/py_bootcampb1_db/blob/main/day6-sc-bakery-project/''.png" alt="Bakery Image">
+</p>  
 
 ## 📌 Project Overview  
 Sweet Crust Bakery is a **data-driven project** analyzing the **sales performance of a bakery business with 4 stores and 15 products across the USA**.  
@@ -25,8 +27,4 @@ The project **automates daily sales reporting**, generates key business insights
 - **smtplib** – Email automation  
 - **Schedule** – Automated job scheduling  
 
-## 🔧 Setup & Installation  
-### **1️⃣ Clone the Repository**  
-```bash
-git clone https://github.com/yourusername/sweet-crust-bakery.git
-cd sweet-crust-bakery
+
